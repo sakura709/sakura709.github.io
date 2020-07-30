@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+body {
+    font-size: 16px;
+}
+
+
+#buttom > ol > li{
+    border: 1px solid #0089F9;
+    border-radius: 6px;
+    background: linear-gradient(0deg, #ccccff, #ffccff);
+    color: #000;
+    list-style: none;
+}
+
+
+
+    
+
+h1{
+ 
+    text-align: center;
+    color: crimson;
+    
+}
+
+
+h3 {
+    color: crimson;
+}
+
+#mokuji{
+    border: 1px solid #000;
+    text-align: center;
+    background-color: beige;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:hover{
+    
+}
+
+p {
+    line-height: 2em;
+}
+
+#a, b, c, d{
+    border-bottom: 1px solid#000; 
+}
+
+.div-1 > p{
+    color: brown
+}
+
+#div1, #div2, #div3 {
+    background-color: beige
+}
+h2 {
+    border-bottom: 1px solid #000;
+    color: brown
+}
+
+#p1 {
+    text-align: center
+}
+
+input[type="submit"] {
+    border: 1px solid #0089F9;
+    border-radius: 6px;
+    background: linear-gradient(0deg, #ccccff, #ffccff);
+    color: #000;
+}
